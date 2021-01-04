@@ -6,6 +6,16 @@
 
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fff;
+    color: #000;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.page-container{
+    width: 90%;
+    max-width: 1100;
+    
 }
 
 .logo{
