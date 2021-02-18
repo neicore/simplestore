@@ -1,9 +1,0 @@
-Hi future Neicore, this is what I did today
->Continuing practicing CSS grid by building projects.
-- Build a simple online store page
-    >Design inspired by microsoft homepage via traversy tutorial
-        >>>Make a clone of microsoft homepage in the future
-    >Practised working with transparent image and flex, lots of fun ;-)
-    >Made nav bar with flex, guess I'll be making my nav bars like that from now on.
-    >Made an entire page with all those dope footers I'd see on the net, very pleased with my progress
-    >Used a tutorial for reference only when I'd forget stuff, didn't follow along or copy and past
